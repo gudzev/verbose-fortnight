@@ -18,6 +18,11 @@ Lista *napraviCvor()
     return novi;
 }
 
+void DodajNaPocetak(Lista **glava)
+{
+
+}
+
 int main()
 {
     printf("Hello world!\n");
